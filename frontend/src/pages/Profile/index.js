@@ -22,7 +22,7 @@ export default function Profile() {
       }
     }).then(response => {
       setIncidents(response.data);
-    })
+    });
   }, [ongId]);
   
   async function handleDeleteIncident(id) {
@@ -43,6 +43,10 @@ export default function Profile() {
     localStorage.clear();
     
     history.push('/')
+  }
+  
+  if(!ongName) {
+    return window.location = '/';
   }
   
   return (

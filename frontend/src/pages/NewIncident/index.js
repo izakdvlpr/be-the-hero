@@ -38,6 +38,10 @@ export default function NewIncident() {
     }    
   }
   
+  if(!ongId) {
+    return window.location = '/';
+  }
+  
   return (
     <div className="new-incident-container">
       <div className="content">
