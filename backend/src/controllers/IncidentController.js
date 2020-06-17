@@ -52,8 +52,7 @@ module.exports = {
     }
     
     await connection('incidents').where('id', id).delete();
-    
-    // 204: No content
+            
     return res.status(204).send();
   }
 };
