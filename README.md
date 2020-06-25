@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/720040111798091840/722525343923306506/logo.png" width="250px" alt="logo">
   <p style="font-weight: bold">Seja um verdadeiro Heroi!</p>
+  <p>
+    <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#customs-licença">Licença</a>
+  </p>
   <a href="https://github.com/zevdvlpr/coronApp/tree/master/LICENSE">
     <img src="https://img.shields.io/github/license/zevdvlpr/be-the-hero?color=red&style=for-the-badge" alt="License">
   </a>
