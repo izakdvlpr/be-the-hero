@@ -8,8 +8,8 @@
     <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#customs-license">Licença</a>
   </p>
-  <a href="https://github.com/zevdvlpr/coronApp/tree/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zevdvlpr/be-the-hero?color=red&style=for-the-badge" alt="License">
+  <a href="https://github.com/zevdvlpr/be-the-hero/tree/master/LICENSE">
+    <img src="https://img.shields.io/github/license/zevdvlpr/be-the-hero?color=%23000000&label=Licence&style=flat-square" alt="License">
   </a>
 </div>
 
