@@ -6,7 +6,7 @@
     <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#customs-licença">Licença</a>
+    <a href="#customs-license">Licença</a>
   </p>
   <a href="https://github.com/zevdvlpr/coronApp/tree/master/LICENSE">
     <img src="https://img.shields.io/github/license/zevdvlpr/be-the-hero?color=red&style=for-the-badge" alt="License">
