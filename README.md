@@ -17,7 +17,7 @@
 
 O projeto Be The Hero (Seja um verdadeiro Heroi) foi desenvolvido na semana 11 da Omnistack da [Rocketseat](https://www.youtube.com/rocketseat), a semana foi ministrada pelo **Mestre Jedi** [Diego Fernandes](https://github.com/diego3g).
 
-O objetivo do projeoto é conectar ONG's a pessoas que queiram ajudar com um valor monetário, a ONG cria um cadastro, posta os casos em que precisa de colaboração, e uma pessoa pode visualizar os casos e escolher qual ela pode ajudar.
+O objetivo do projeto é conectar ONG's a pessoas que queiram ajudar com um valor monetário, a ONG cria um cadastro, posta os casos em que precisa de colaboração, e uma pessoa pode visualizar os casos e escolher qual ela pode ajudar.
 
 ## :computer: Tecnologias
 
