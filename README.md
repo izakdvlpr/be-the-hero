@@ -4,6 +4,8 @@
   <p>
     <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#gear-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#arrow_forward-como-cutilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#customs-license">Licença</a>
@@ -21,7 +23,7 @@ O objetivo do projeto é conectar ONG's a pessoas que queiram ajudar com um valo
 
 ## :computer: Tecnologias
 
-### Back-end
+### Server (back-end)
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
@@ -38,7 +40,7 @@ O objetivo do projeto é conectar ONG's a pessoas que queiram ajudar com um valo
 
 - [nodemon](https://github.com/remy/nodemon)
 
-### Front-end
+### Client (front-end)
 
 - [React.js](https://pt-br.reactjs.org/)
 - [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
@@ -76,6 +78,20 @@ O objetivo do projeto é conectar ONG's a pessoas que queiram ajudar com um valo
 **Dependências de desenvolvimento**
 
 - [babel-preset-expo](https://github.com/expo/babel-preset-expo)
+
+## :gear: Requisitos
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://node.js.org/)
+- [Yarn](https://yarnpkg.com/)
+
+## :arrow_forward: Como utilizar
+
+- Primeiro passo, clone o projeto em sua maquina: `git clone https://github.com/zevdvlpr/be-the-hero`
+- Abra a pasta do servidor no terminal.
+- Instale as dependências com o comando: `yarn install`
+- Inicie o **servidor** de desenvolvimento com o comando: `yarn start`
+- Abra uma aba no navegar e navegue para: `http://localhost:3000`
 
 ## :recycle: Como Contribuir
 
