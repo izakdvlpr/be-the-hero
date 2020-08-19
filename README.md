@@ -106,4 +106,4 @@ O objetivo do projeto é conectar ONG's a pessoas que queiram ajudar com um valo
 
 ## :customs: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/zevdvlpr/coronApp/tree/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/zevdvlpr/be-the-hero/tree/master/LICENSE) para mais detalhes.
